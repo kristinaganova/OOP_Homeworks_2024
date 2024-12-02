@@ -1,12 +1,6 @@
 
 # HTML Table Manipulation Program
 
-**Course**: Object-Oriented Programming  
-**Program**: Software Engineering, Faculty of Mathematics and Informatics (FMI)  
-**Year**: 2023/2024  
-
-This program is a task from the Object-Oriented Programming course in the Software Engineering program at FMI for the 2023/2024 academic year. The goal is to manipulate HTML tables via a set of commands.
-
 ## Program Description
 
 This program allows you to work with HTML tables by supporting the following HTML tags:
