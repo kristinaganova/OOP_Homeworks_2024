@@ -10,8 +10,6 @@ Each song has the following properties:
 
 The genre should be stored in a data structure/member that takes up no more than **1 byte**.
 
-## Playlist Functionalities
-
 ### Song Modifications
 The content of a song can be modified in one of the following ways:
 
